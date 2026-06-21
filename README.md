@@ -23,11 +23,11 @@ I am a **Data Science & Predictive Machine Learning (PML)** Engineer. I love div
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://techicons.dev/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://techicons.dev/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="100">
@@ -39,11 +39,11 @@ I am a **Data Science & Predictive Machine Learning (PML)** Engineer. I love div
       <br>Pandas
     </td>
     <td align="center" width="100">
-      <img src="https://techicons.dev/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="100">
-      <img src="https://techicons.dev/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
   </tr>
